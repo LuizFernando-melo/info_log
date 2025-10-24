@@ -3,17 +3,21 @@
 <img width="1882" height="727" alt="Captura de tela 2025-10-24 195357" src="https://github.com/user-attachments/assets/346f82b1-7126-427e-aa93-82fb5be1f30e" />
 Gerar tabela e gráfico dinâmico para visualização dos dados
 Usando fórmulas responder às perguntas a seguir: 
+
 a) quantos municípios foram contemplados nos dados? (REMOVER DUPLICATAS - CONT.VALORES) 
       =CONT.VALORES(A$1:A$1048575)-1
       
 b) quantas especialidades foram consideradas nos dados? (REMOVER DUPLICATAS - CONT.VALORES)
       =CONT.VALORES(F:F)-1
+      
 c) quantos tipos de Natureza Jurídica foram considerados nos dados? (REMOVER DUPLICATAS - CONT.VALORES)  
       =CONT.VALORES(K:K)-1
+      
 d) quantos restaurantes estão cadastrados em  São José dos Campos? (CONT.SES) 
       =CONT.SES(base_dados!J:J,"São José dos campos",base_dados!R:R,"Restaurante")
  Ao digitar o CNPJ em uma linha, deve ser retornado Nome Fantasia (PROCV e SEERRO)
         =PROCV(D8,base_dados!B:C,2,0)
+        
  Ao digitar o CNPJ em uma linha, deve ser retornada Situação da Atividade (PROCV e SEERRO)
         =PROCV(formulas!D8,base_dados!B:D,3,0)
 Ao digitar o CNPJ em uma linha, deve ser retornada Natureza Jurídica (PROCV e SEERRO) 
