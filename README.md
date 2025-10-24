@@ -1,9 +1,11 @@
 # info_log
-trabalho de informatica
+# Trabalho de informatica
+<img width="1882" height="727" alt="Captura de tela 2025-10-24 195357" src="https://github.com/user-attachments/assets/346f82b1-7126-427e-aa93-82fb5be1f30e" />
 Gerar tabela e gráfico dinâmico para visualização dos dados
 Usando fórmulas responder às perguntas a seguir: 
 a) quantos municípios foram contemplados nos dados? (REMOVER DUPLICATAS - CONT.VALORES) 
       =CONT.VALORES(A$1:A$1048575)-1
+      
 b) quantas especialidades foram consideradas nos dados? (REMOVER DUPLICATAS - CONT.VALORES)
       =CONT.VALORES(F:F)-1
 c) quantos tipos de Natureza Jurídica foram considerados nos dados? (REMOVER DUPLICATAS - CONT.VALORES)  
