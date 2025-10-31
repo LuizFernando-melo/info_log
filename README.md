@@ -51,9 +51,13 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_melo11_fatec_sp_gov_br/
 
 # Atividade 3: Tabela e Dados NCM
 ![WhatsApp Image 2025-10-24 at 20 28 17 (1)](https://github.com/user-attachments/assets/b3500d7d-254e-4253-bcc7-1bb791853719)
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_melo11_fatec_sp_gov_br/Documents/NCM.xlsx?d=webcf2b827a9748cc959fbe6a70498b2b&csf=1&web=1&e=F6lbwn
 
 # Atividade 4: interpretação de dados no PowerBI
 ![WhatsApp Image 2025-10-24 at 20 28 17](https://github.com/user-attachments/assets/4866c82f-4244-4f5d-8a8c-dde4469b36b7)
 
+# Atividade 5: power BI
+<img width="1452" height="819" alt="Captura de tela 2025-10-30 222855" src="https://github.com/user-attachments/assets/179198d6-8ccb-4d96-9b18-5efb19d462bb" />
+https://fatecspgov-my.sharepoint.com/:u:/r/personal/luiz_melo11_fatec_sp_gov_br/Documents/Power%20BI%20-%20atividade%205.pbix?csf=1&web=1&e=BWHufH
 
 
