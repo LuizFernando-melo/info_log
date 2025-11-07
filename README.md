@@ -60,4 +60,6 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_melo11_fatec_sp_gov_br/
 <img width="1452" height="819" alt="Captura de tela 2025-10-30 222855" src="https://github.com/user-attachments/assets/179198d6-8ccb-4d96-9b18-5efb19d462bb" />
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/luiz_melo11_fatec_sp_gov_br/Documents/Power%20BI%20-%20atividade%205.pbix?csf=1&web=1&e=BWHufH
 
+# 6º Trabalho : Graficos sorvete.
+<img width="1612" height="782" alt="Captura de tela 2025-11-07 202841" src="https://github.com/user-attachments/assets/9b246dfa-3e75-4327-955c-c98ab7e36221" />
 
