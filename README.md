@@ -2,7 +2,7 @@
 # Atividade 1: Apresentação no canvas
 ![WhatsApp Image 2025-10-24 at 20 28 17](https://github.com/user-attachments/assets/510521b1-49db-4a2e-bb25-b7af555a982f)
 
-# Trabalho de informatica
+# Atividade 2: Dados abertos em excel restaurante e bares
 <img width="1882" height="727" alt="Captura de tela 2025-10-24 195357" src="https://github.com/user-attachments/assets/346f82b1-7126-427e-aa93-82fb5be1f30e" />
 Gerar tabela e gráfico dinâmico para visualização dos dados
 Usando fórmulas responder às perguntas a seguir: 
