@@ -55,8 +55,8 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_melo11_fatec_sp_gov_br/
 
 # Atividade 4: interpretação de dados no PowerBI
 ![WhatsApp Image 2025-10-24 at 20 28 17](https://github.com/user-attachments/assets/4866c82f-4244-4f5d-8a8c-dde4469b36b7)
-
-# Atividade 5: power BI
+https://fatecspgov-my.sharepoint.com/:u:/r/personal/luiz_melo11_fatec_sp_gov_br/Documents/interpreta%C3%A7%C3%A3o%20Power%20Bi.pbix?csf=1&web=1&e=25KzKz
+# Atividade 5:  Interpretação de dados COMEX em power BI
 <img width="1452" height="819" alt="Captura de tela 2025-10-30 222855" src="https://github.com/user-attachments/assets/179198d6-8ccb-4d96-9b18-5efb19d462bb" />
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/luiz_melo11_fatec_sp_gov_br/Documents/Power%20BI%20-%20atividade%205.pbix?csf=1&web=1&e=BWHufH
 
