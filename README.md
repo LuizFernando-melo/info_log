@@ -1,4 +1,4 @@
-# info_log
+<img width="1303" height="763" alt="Captura de tela 2025-11-27 224736" src="https://github.com/user-attachments/assets/18bebb53-3128-45d4-97d2-081dda87dfcc" /># info_log
 # Atividade 1: Apresentação no canvas
 ![WhatsApp Image 2025-10-24 at 20 28 17](https://github.com/user-attachments/assets/510521b1-49db-4a2e-bb25-b7af555a982f)
 
@@ -70,8 +70,7 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/luiz_melo11_fatec_sp_gov_br/
 <img width="1141" height="761" alt="image" src="https://github.com/user-attachments/assets/8d520276-674b-4c66-a228-88485e7b5f93" />
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_melo11_fatec_sp_gov_br/Documents/Salary%20Data.xlsx?d=wad2b75cc794e4a15aff87be1bb9cc31f&csf=1&web=1&e=hfbX6r
 
-# prova 27/11/2025
-![Uploading Captura de tela 2025-11-27 224736.png…]()
-
+# Prova 27/11/2025
+https://drive.google.com/open?id=1zzQ2JG7bH<img width="1303" height="763" alt="Captura de tela 2025-11-27 224736" src="https://github.com/user-attachments/assets/aff9456e-6458-43f3-bce5-30809d9bc984" />
+_9Yh88acR5Am_24A5o2RIv4&usp=drive_copy
 https://drive.google.com/open?id=1zzQ2JG7bH_9Yh88acR5Am_24A5o2RIv4&usp=drive_copy
-
