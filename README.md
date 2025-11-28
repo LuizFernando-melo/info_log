@@ -69,7 +69,9 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/luiz_melo11_fatec_sp_gov_br/
 # Atividade 7: Regressão Linear - Salário x Experiência
 <img width="1141" height="761" alt="image" src="https://github.com/user-attachments/assets/8d520276-674b-4c66-a228-88485e7b5f93" />
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_melo11_fatec_sp_gov_br/Documents/Salary%20Data.xlsx?d=wad2b75cc794e4a15aff87be1bb9cc31f&csf=1&web=1&e=hfbX6r
+
 # prova 27/11/2025
-<img width="130" height="763" alt="image" src="https://github.com/user-attachments/assets/a2121790-42a3-4f87-a24e-ce31ea52714e" />
+![Uploading Captura de tela 2025-11-27 224736.png…]()
+
 https://drive.google.com/open?id=1zzQ2JG7bH_9Yh88acR5Am_24A5o2RIv4&usp=drive_copy
 
