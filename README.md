@@ -1,4 +1,4 @@
-<img width="1303" height="763" alt="Captura de tela 2025-11-27 224736" src="https://github.com/user-attachments/assets/18bebb53-3128-45d4-97d2-081dda87dfcc" /># info_log
+
 # Atividade 1: Apresentação no canvas
 ![WhatsApp Image 2025-10-24 at 20 28 17](https://github.com/user-attachments/assets/510521b1-49db-4a2e-bb25-b7af555a982f)
 
